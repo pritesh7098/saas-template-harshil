@@ -18,8 +18,8 @@ export default function Hero() {
           <div className="mx-auto max-w-3xl text-center space-y-8">
             <div className="space-y-4">
               <h1 className="mt-56 text-7xl sm:text-8xl lg:text-9xl font-bold bg-gradient-to-r from-blue-300 to-blue-500 bg-clip-text text-transparent leading-tight">
-                <span>Bot</span>
-                <span className="font-light">-Sensei</span>
+                <span>Pritesh</span>
+                <span className="font-light">D</span>
               </h1>
               <p className="text-lg sm:text-xl max-w-2xl mx-auto font-light text-blue-200/90">
                 Build, deploy, and scale intelligent Telegram bots with our no-code platform powered by cutting-edge AI so that you can focus on what REALLY MATTERS!
